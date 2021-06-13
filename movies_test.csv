@@ -1,0 +1,8 @@
+movie_id,title,year,genre,director_id
+1,The Matrix,1999,Action,1
+2,Shrek,2001,Comedy,2
+3,The Matrix Reloaded,2003,Action,1
+4,The Matrix Revolutions,2003,Action,1
+5,Spider-Man,1977,Action,3
+6,Spider-Man,2002,Action,4
+7,Spider-Man,2002,Animation,4
